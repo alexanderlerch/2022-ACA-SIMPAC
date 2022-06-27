@@ -1,0 +1,9 @@
+[submodule "libACA"]
+	path = libACA
+	url = https://github.com/alexanderlerch/libACA
+[submodule "pyACA"]
+	path = pyACA
+	url = https://github.com/alexanderlerch/pyACA
+[submodule "ACA-Code"]
+	path = ACA-Code
+	url = https://github.com/alexanderlerch/ACA-Code
